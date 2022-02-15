@@ -1,0 +1,7 @@
+import random
+
+
+fil_list = ['Фил','Андрей','Рур']
+osk_list = ['Хуила','Победил','Чурбан','Крут']
+print(random.choice(fil_list))
+print(random.choice(osk_list)
